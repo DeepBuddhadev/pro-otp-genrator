@@ -1,0 +1,21 @@
+{
+  "name": "pro-otp-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "otp",
+    "pro",
+    "generator",
+    "secure",
+    "crypto",
+    "password",
+    "hex",
+    "numeric"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deep Buddhadev",
+  "license": "MIT",
+  "description": "A secure and flexible OTP generator supporting numeric, hex, and alphanumeric with expiry sessions"
+}
